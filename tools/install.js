@@ -104,7 +104,7 @@ else {
 		}
 
 		location = locateElectronPrebuilt();
-		version = null;
+		version = '1.7.3';
 		electronPath = null;
 		if (location != null)
 		{ 
